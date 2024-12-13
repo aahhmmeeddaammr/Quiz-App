@@ -1,5 +1,5 @@
 import { getQuestions } from "./API.js";
-import Quiz from "./quiz.js";
+import Quiz from "./Quiz.js";
 export default class QuizManager {
     #Q
   constructor() {
